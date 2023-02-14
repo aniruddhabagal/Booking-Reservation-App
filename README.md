@@ -5,8 +5,9 @@ This Booking / Reservation System is a `React` based handy `Full Stack Web Appli
 
 ## Website User interface
 
-![](https://github.com/adarshgowdaa/tex-con/blob/main/readme_files/ui_1.png)
-![](https://github.com/adarshgowdaa/tex-con/blob/main/readme_files/ui_2.png)
+![fs1](https://user-images.githubusercontent.com/64460474/218664540-28ff80cd-df1b-43f7-8e61-deb372137922.jpg)
+![fs2](https://user-images.githubusercontent.com/64460474/218664593-ccf8c839-1fe0-4f8f-ada8-c6841d4cd8a2.jpg)
+
 
 ## Tech Stack
 
